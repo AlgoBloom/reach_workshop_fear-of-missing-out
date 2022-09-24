@@ -23,9 +23,10 @@ export const main = Reach.App(() => {
 //      particpant class buys tickets and set the next deadline
 //what information do they know at the start of application
 //      Funder knows the price of the tickets and first deadline
-//      Buyer participant knows the price and the next deadline they set
+//      Buyer participant does not know anything when application starts
 //what info do they discover and use in the program
-//      They discover if they win or not if the deadline hits
+//      funder does not learn anything during the program execution
+//      buyer learns ticket price and deadline
 //what funcds change owenership during the appliation and how
 //      Funds go into a smart contract from the ticket buyers
 //      Funds go from the smart contract to the winner
