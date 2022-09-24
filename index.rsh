@@ -20,6 +20,11 @@ export const main = Reach.App(() => {
 
 // who is involved in this application
 
+          /*
+      1. The funder who creates the auction
+      2. A particpant class for people who purchase tickets
+          */
+
 // what information do they know at the start of application
 
 // what info do they discover and use in the program
