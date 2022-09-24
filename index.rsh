@@ -17,3 +17,11 @@ export const main = Reach.App(() => {
   // write your program here
   exit();
 });
+
+// who is involved in this application
+
+// what information do they know at the start of application
+
+// what info do they discover and use in the program
+
+// what funcds change owenership during the appliation and how
