@@ -37,3 +37,7 @@ export const main = Reach.App(() => {
 //  price - cost of a ticket
 //  total pot - the total amount of money in the smart contract
 //  winner - yes or no
+
+//      PARTICIPANT INTERFACE
+//  funder - needs to be able to create a initial deadline and start the game
+//  buyer - needs to be able to buy a ticket and reset the deadline
