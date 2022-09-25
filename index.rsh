@@ -18,6 +18,7 @@ export const main = Reach.App(() => {
   exit();
 });
 
+//      PROBLEM ANALYSIS
 //who is involved in this application
 //      funcder creates the game and set the first deadline
 //      particpant class buys tickets and set the next deadline
@@ -30,3 +31,9 @@ export const main = Reach.App(() => {
 //what funcds change owenership during the appliation and how
 //      Funds go into a smart contract from the ticket buyers
 //      Funds go from the smart contract to the winner
+
+//      DATA DEFINITION
+//  deadline - time the contract ends and winner wins
+//  price - cost of a ticket
+//  total pot - the total amount of money in the smart contract
+//  winner - yes or no
